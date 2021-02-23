@@ -1,6 +1,3 @@
-# R
-
-
 # R shiny
 
 - #### [Shiny Apps: Development and Deployment](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/shiny-apps/)
@@ -12,7 +9,7 @@
 # R
 
 
-- #### ggstatsplot | [raison d'etre](https://indrajeetpatil.github.io/ggstatsplot/index.html)
+- #### ggstatsplot | [raison d'etre](https://indrajeetpatil.github.io/ggstatsplot/index.html) |[PPT](https://indrajeetpatil.github.io/ggstatsplot_slides/slides/ggstatsplot_presentation.html#57)
 
 
 
