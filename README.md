@@ -9,6 +9,8 @@
 # R
 
 
+- #### [ANOVA tutorial and adding an icon on r plot](https://ourcodingclub.github.io/tutorials/anova/)
+
 - #### ggstatsplot | [raison d'etre](https://indrajeetpatil.github.io/ggstatsplot/index.html) |[PPT](https://indrajeetpatil.github.io/ggstatsplot_slides/slides/ggstatsplot_presentation.html#57)
 
 
