@@ -8,7 +8,7 @@
 
 # R
 
-
+- #### [An introduction to repeatability estimation with rptR](https://cran.r-project.org/web/packages/rptR/vignettes/rptR.html) | [Installation](https://www.rdocumentation.org/packages/rptR/versions/0.9.22)
 
 - #### ggiraphExtra | Multiple regression model without interaction | ggPredict | [Link](https://cran.r-project.org/web/packages/ggiraphExtra/vignettes/ggPredict.html)
 
