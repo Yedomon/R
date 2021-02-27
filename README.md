@@ -8,6 +8,9 @@
 
 # R
 
+
+- #### [smatr 3– an R package for estimation and inference about allometric lines | sma](https://www.rdocumentation.org/packages/smatr/versions/3.4-8/topics/sma)
+
 - #### [An introduction to repeatability estimation with rptR](https://cran.r-project.org/web/packages/rptR/vignettes/rptR.html) | [Installation](https://www.rdocumentation.org/packages/rptR/versions/0.9.22)
 
 - #### ggiraphExtra | Multiple regression model without interaction | ggPredict | [Link](https://cran.r-project.org/web/packages/ggiraphExtra/vignettes/ggPredict.html)
