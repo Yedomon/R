@@ -8,6 +8,13 @@
 
 # R
 
+
+
+- #### ggiraphExtra | Multiple regression model without interaction | ggPredict | [Link](https://cran.r-project.org/web/packages/ggiraphExtra/vignettes/ggPredict.html)
+
+- ##### a great alternative [here](https://rpkgs.datanovia.com/ggpubr/reference/stat_regline_equation.html) with ggpubr
+
+
 - #### correlation with ggstatplot [r documentation](https://www.rdocumentation.org/packages/ggstatsplot/versions/0.2.0/topics/ggcorrmat) | [PPT](https://indrajeetpatil.github.io/ggstatsplot_slides/slides/ggstatsplot_presentation.html#34)
 
 
