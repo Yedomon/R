@@ -8,6 +8,8 @@
 
 # R
 
+- #### correlation with ggstatplot [r documentation](https://www.rdocumentation.org/packages/ggstatsplot/versions/0.2.0/topics/ggcorrmat) | [PPT](https://indrajeetpatil.github.io/ggstatsplot_slides/slides/ggstatsplot_presentation.html#34)
+
 
 - #### [ANOVA tutorial and adding an icon on r plot](https://ourcodingclub.github.io/tutorials/anova/)
 
