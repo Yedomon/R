@@ -41,10 +41,12 @@ ggplot(leaf.low.soilp,aes(y=longev,x=lma,color=rain))+geom_point()+
 ## ggPredict style
 
 ggPredict(fit1,se=TRUE,interactive=FALSE) + 
-  theme_bw()+
+  theme_minimal()+
   theme(legend.position = "top")+
   labs(x="lma in cm", y = "longev in cm") +
-  annotate('text', x = 70, y = 4, label = 'p-value < 0.01)')
+  annotate('text', x = 70, y = 4, label = 'p-value < 0.01)') +
+  scale_fill_manual(values = c("#D16103", "#C3D7A4", "#52854C"))+
+  scale_color_manual(values = c("#D16103", "#C3D7A4", "#52854C"))
 
 
 
