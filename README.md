@@ -9,6 +9,13 @@
 # R
 
 
+
+
+- #### [Assessing Clustering Tendency](https://www.datanovia.com/en/lessons/assessing-clustering-tendency/)
+
+- #### [Cluster Validation Statistics: Must Know Methods](https://www.datanovia.com/en/lessons/cluster-validation-statistics-must-know-methods/)
+
+
 - #### [good tuto simple analysis in R](https://biostats.w.uib.no/9-pastecs/)
 
 - #### [setup distill](https://www.shamindras.com/posts/2019-07-31-shrotriya2019distillpt2/)
