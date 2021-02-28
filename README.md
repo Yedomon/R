@@ -8,7 +8,47 @@
 
 # R
 
+```r
 
+sma analysis to get slope and elevation p value
+
+#####
+
+install.packages("smatr")
+
+
+### load
+
+library(smatr)
+b = sma(longev~lma+rain, type="shift", data=leaf.low.soilp) # change type shift to elevation or elev.test=1 or slope.test=1 I do not know
+summary(b)
+
+
+
+#ggplot2 style
+fit1=lm(longev~lma+rain,data=leaf.low.soilp)
+summary(fit1)
+
+equation1=function(x){coef(fit1)[2]*x+coef(fit1)[1]}
+equation2=function(x){coef(fit1)[2]*x+coef(fit1)[1]+coef(fit1)[3]}
+
+ggplot(leaf.low.soilp,aes(y=longev,x=lma,color=rain))+geom_point()+
+  stat_function(fun=equation1,geom="line",color=scales::hue_pal()(2)[1])+
+  stat_function(fun=equation2,geom="line",color=scales::hue_pal()(2)[2])
+
+
+
+## ggPredict style
+
+ggPredict(fit1,se=TRUE,interactive=FALSE) + 
+  theme_bw()+
+  theme(legend.position = "top")+
+  labs(x="lma in cm", y = "longev in cm") +
+  annotate('text', x = 70, y = 4, label = 'p-value < 0.01)')
+
+
+
+```
 
 
 - #### [Assessing Clustering Tendency](https://www.datanovia.com/en/lessons/assessing-clustering-tendency/)
