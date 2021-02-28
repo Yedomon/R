@@ -9,6 +9,8 @@
 # R
 
 
+- #### [good tuto simple analysis in R](https://biostats.w.uib.no/9-pastecs/)
+
 - #### [setup distill](https://www.shamindras.com/posts/2019-07-31-shrotriya2019distillpt2/)
 
 - #### [smatr 3– an R package for estimation and inference about allometric lines | sma](https://www.rdocumentation.org/packages/smatr/versions/3.4-8/topics/sma)
