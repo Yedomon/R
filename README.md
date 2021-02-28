@@ -123,7 +123,7 @@ ggbetweenstats(
 
 
 
-- #### very nice youtube channel from Dr Yury Zablotski for data exploration, cleaning and so on. Very nice tutorial for [dlookr](https://youtu.be/M7eNYbd4n1Y)
+- #### very nice youtube channel from Dr Yury Zablotski for data exploration, cleaning and so on. Very nice tutorial for [dlookr](https://youtu.be/M7eNYbd4n1Y) | [the blog](https://yuzar-blog.netlify.app/posts/2021-01-30-r-package-reviews-dlookr-diagnose-explore-and-transform-your-data/)
 
 
 
