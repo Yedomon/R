@@ -48,7 +48,7 @@ ggPredict(fit1,se=TRUE,interactive=FALSE) +
   scale_fill_manual(values = c("#D16103", "#C3D7A4", "#52854C"))+
   scale_color_manual(values = c("#D16103", "#C3D7A4", "#52854C"))
 
-
+# color selection [here](https://www.datanovia.com/en/fr/blog/couleurs-ggplot-meilleures-astuces-que-vous-allez-adorer/)
 
 ```
 
