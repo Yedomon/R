@@ -405,6 +405,18 @@ To calculate the synonymous-substitution Ks values, we selected the orthologous 
 
 - #### [1](https://www.r-bloggers.com/2019/04/zooming-in-on-maps-with-sf-and-ggplot2/) | [2](https://www.r-spatial.org/r/2018/10/25/ggplot2-sf.html) | [3](http://search.r-project.org/library/ggplot2/html/ggsf.html) | [4](https://geanders.github.io/navy_public_health/3-2-basic-mapping.html#basic-mapping) | [5](https://semba-blog.netlify.app/01/26/2020/world-map-and-map-projections/) [7](https://bookdown.org/robinlovelace/geocompr/spatial-class.html)
 
+
+
+In cases when a coordinate reference system (CRS) is missing or the wrong CRS is set, the st_set_crs() function can be used:
+
+```
+new_vector = st_set_crs(new_vector, 4326) # set CRS
+#> Warning: st_crs<- : replacing crs does not reproject data; use st_transform
+#> for that
+The warning message informs us that the st_set_crs() function does not transform data from one CRS to another.
+
+```
+
 - #### [ggplot2 official guide for map](https://ggplot2-book.org/maps.html)
 
 
