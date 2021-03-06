@@ -117,7 +117,7 @@ Following (between-subjects) tests are carried out for each type of analyses-
 [ggbetweenstats R documentation](https://www.rdocumentation.org/packages/ggstatsplot/versions/0.6.6/topics/ggbetweenstats)
 
 
-```python
+```r
 
 ggbetweenstats(
   data,
@@ -220,7 +220,7 @@ I found the blog r for the rest of us  [here](https://rfortherestofus.com/blog/)
 - #### Heatmap 
 
 
-```
+```r
 
 library(pheatmap); library(gplots); library(ggplot2); library(colorspace); library(wesanderson)
 
@@ -249,7 +249,7 @@ pheatmap(tpm,
  - #### Ks plot
  
  
- ```
+ ```r
  
  library(ggplot2); library(ggrepel); library(gridExtra)
 args = commandArgs(trailingOnly=TRUE)
@@ -294,7 +294,7 @@ To calculate the synonymous-substitution Ks values, we selected the orthologous 
 
 
 
-A new script for ka ks plot | data is [here]()
+A new script for ka ks plot | data is [here](https://github.com/Yedomon/R/blob/main/data_th.csv)
 
 
 
