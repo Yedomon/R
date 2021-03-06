@@ -294,6 +294,27 @@ To calculate the synonymous-substitution Ks values, we selected the orthologous 
 
 
 
+A new script for ka ks plot | data is [here]()
+
+
+
+```r
+
+
+ggplot(data_th, aes(x=ks, color=species)) + 
+  geom_density(size = 0.75)  +
+  scale_x_continuous(name = "Substitutions per synonymous site (Ks)", limits =c(0,4)) + 
+  scale_y_continuous(name="Density") + 
+  scale_color_brewer(palette ="Paired") +
+  theme(panel.background = element_rect(fill = "white", colour = "grey50")) +
+  theme(legend.position = c(0.8, 0.7))
+
+
+```
+
+
+
+
 
 [kaks-calculator](https://code.google.com/archive/p/kaks-calculator/downloads)
 
