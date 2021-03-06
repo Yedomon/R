@@ -5,6 +5,37 @@
 - #### [R Recipe: Shiny Tables from Excel Templates](https://ljupcho.com/blog/shiny-excel-table-templates)
 
 
+Hi Dear Yury Zablotski. Thanks again for this amazing tutorial. I was able to set up and deploy my blog website. However I encountered this issue when writing a blog today.
+
+
+See:
+
+```
+
+Error in read_xml.character(rss_path) : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xE9 0x76 0x72 0x2E [9]
+Calls: <Anonymous> ... write_feed_xml -> <Anonymous> -> read_xml.character
+Furthermore : Warning messages:
+1: In (function (category = "LC_ALL", locale = "")  :
+  the OS request to specify the location to "en_US.UTF-8" could not be honored
+2: In (function (category = "LC_ALL", locale = "")  :
+  the OS request to specify the location to "en_US.UTF-8" could not be honored
+3: In (function (category = "LC_ALL", locale = "")  :
+  the OS request to specify the location to "en_US.UTF-8" could not be honored
+Execution stopped
+
+```
+
+
+Here is the github link for the site ---> https://github.com/Yedomon/My-website
+
+
+Here is the deployed website ---> https://yedomon.netlify.app/
+
+Thank you.
+
+
 
 # R
 
