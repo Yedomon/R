@@ -1,7 +1,10 @@
 
 - #### [mfiz](http://mfviz.com/)
 
+- #### Graph color choice example from [2020 | The citation advantage of linking publications to research data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230416)
 
+
+![figure](https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0230416.g002)
 
 # R shiny
 
