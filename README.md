@@ -1,7 +1,7 @@
 
 - #### [mfiz](http://mfviz.com/)
 
-- #### [Plagiarism checker at jbnu](https://iei.jbnu.ac.kr)
+- #### [Plagiarism checker at jbnu](https://iei.jbnu.ac.kr) | [LOAD](https://jbnu.copykiller.com/myspace/upload)
 
 - #### Graph color choice example from [2020 | The citation advantage of linking publications to research data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230416)
 
