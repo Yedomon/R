@@ -1,6 +1,12 @@
 
 
 
+[Machine learning with R]()
+
+- #### [Which color scale to use when visualizing data](https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/)
+
+
+
 - #### [Making Extra Great Slides](https://www.garrickadenbuie.com/talk/extra-great-slides-nyhackr/)
 
 
