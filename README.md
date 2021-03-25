@@ -1,7 +1,7 @@
 
 
 
-[Machine learning with R]()
+- #### [Machine learning with R](https://github.com/Yedomon/R/blob/main/lmlcr.pdf)
 
 - #### [Which color scale to use when visualizing data](https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/)
 
