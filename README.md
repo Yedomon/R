@@ -1,6 +1,10 @@
 
 
-- #### [ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R ](https://github.com/Z3tt/OutlierConf2021) [PPT](https://www.cedricscherer.com/slides/OutlierConf2021_ggplot-wizardry.pdf)
+
+- #### [Making Extra Great Slides](https://www.garrickadenbuie.com/talk/extra-great-slides-nyhackr/)
+
+
+- #### [ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R ](https://github.com/Z3tt/OutlierConf2021) | [PPT](https://www.cedricscherer.com/slides/OutlierConf2021_ggplot-wizardry.pdf)
 
 
 
