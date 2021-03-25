@@ -2,6 +2,10 @@
 
 - #### [ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R ](https://github.com/Z3tt/OutlierConf2021)
 
+
+
+![g](https://raw.githubusercontent.com/Z3tt/OutlierConf2021/main/img/2021_outlier.png)
+
 - #### [mfiz](http://mfviz.com/)
 
 - #### [Plagiarism checker at jbnu](https://iei.jbnu.ac.kr) | [LOAD](https://jbnu.copykiller.com/myspace/upload)
