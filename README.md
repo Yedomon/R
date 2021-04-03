@@ -1,4 +1,7 @@
 
+- #### [Plotting a ggtree and ggplots side by side](https://www.r-bloggers.com/2018/10/plotting-a-ggtree-and-ggplots-side-by-side/)
+
+
 - #### [vhs palette](https://github.com/cj-holmes/vhs)
 
 - #### [Machine learning with R](https://github.com/Yedomon/R/blob/main/lmlcr.pdf)
