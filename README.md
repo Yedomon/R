@@ -1,3 +1,9 @@
+
+- #### Multiple views on how to choose a visualization | [Medium post](https://medium.com/multiple-views-visualization-research-explained/multiple-views-on-how-to-choose-a-visualization-b3ffc99fcddc) | [Indrajeet Patil POST](https://twitter.com/patilindrajeets/status/1380437894859530240) 
+
+
+![img](https://pbs.twimg.com/media/EyhM8lxW8AEnuyL?format=jpg&name=large)
+
 - #### [Lesson 5: Spatial Data Analysis in R](https://youtu.be/nQVFqkifeSE)
 - #### [Plotting a ggtree and ggplots side by side](https://www.r-bloggers.com/2018/10/plotting-a-ggtree-and-ggplots-side-by-side/)
 
