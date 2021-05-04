@@ -1,3 +1,48 @@
+- #### Diverging stacked barplot with ggplot2
+
+
+The [blog](https://luisdva.github.io/rstats/Diverging-bar-plots/) 
+
+Main code
+
+
+```r
+
+library(dplyr)
+library(ggplot2)
+library(extrafont)
+devtools::install_github('bart6114/artyfarty')
+library(artyfarty)
+
+vegSurvey <- vegSurvey %>%  mutate(sppInv= ifelse(veg_Type =="native",spp,spp*-1))
+
+# plot for only the North slope
+
+vegSurvey %>% filter(slope=="North") %>% 
+ggplot(aes(x=sampling_point, y=sppInv, fill=veg_Type))+
+  geom_bar(stat="identity",position="identity")+
+  xlab("sampling point")+ylab("number of species")+
+  scale_fill_manual(name="Plant type",values = c("#FFA373","#50486D"))+
+  coord_flip()+ggtitle("North slope")+
+  geom_hline(yintercept=0)+
+  xlab("Sampling Points")+
+  ylab("Species number")+
+  scale_y_continuous(breaks = pretty(vegSurvey$sppInv),labels = abs(pretty(vegSurvey$sppInv)))+
+  theme_scientific()
+
+```
+
+
+
+Output
+
+
+
+
+![img](https://luisdva.github.io/assets/images/northslope.png)
+
+
+
 
 - #### Multiple views on how to choose a visualization | [Medium post](https://medium.com/multiple-views-visualization-research-explained/multiple-views-on-how-to-choose-a-visualization-b3ffc99fcddc) | [Indrajeet Patil POST](https://twitter.com/patilindrajeets/status/1380437894859530240) 
 
