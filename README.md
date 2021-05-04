@@ -55,6 +55,9 @@ The code:
 
 
 ```r
+## calculate breaks values
+breaks_values <- pretty(starwars_chars$average_height)
+
 
 ## create plot
 starwars_chars %>%
