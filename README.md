@@ -44,6 +44,43 @@ Output
 
 
 
+A second more details tutorials
+
+
+The blog [post](https://www.onceupondata.com/2019/01/25/ggplot2-divergent-bars/)
+
+
+
+The code:
+
+
+```r
+
+## create plot
+starwars_chars %>%
+  ggplot(aes(x = homeworld, y = average_height, fill = gender))+
+  geom_hline(yintercept = 0)+
+  geom_bar(stat = "identity")+
+  coord_flip()+
+  scale_y_continuous(breaks = breaks_values,
+                     labels = abs(breaks_values))+
+  theme_minimal()+
+  scale_fill_manual(values = c("#bf812d", "#35978f"))
+
+
+```
+
+
+Output
+
+
+![img](https://www.onceupondata.com/post/2019-01-25-ggplot2-divergent-bars_files/figure-html/starwars3-1.png)
+
+
+
+
+
+
 - #### Multiple views on how to choose a visualization | [Medium post](https://medium.com/multiple-views-visualization-research-explained/multiple-views-on-how-to-choose-a-visualization-b3ffc99fcddc) | [Indrajeet Patil POST](https://twitter.com/patilindrajeets/status/1380437894859530240) 
 
 
