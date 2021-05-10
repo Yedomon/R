@@ -1,8 +1,14 @@
+- ####   Water map in African countries
+
+![img](https://github.com/Yedomon/R/blob/main/code.jpg)
+
+
+[Code](https://github.com/elidom/my_TidyTues/blob/master/week_19/water.Rmd)
+
+
+
+
 - #### Diverging stacked barplot with ggplot2
-
-
-
-  [Code](https://github.com/elidom/my_TidyTues/blob/master/week_19/water.Rmd)
 
 
 
