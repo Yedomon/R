@@ -1,6 +1,11 @@
 - #### Diverging stacked barplot with ggplot2
 
 
+
+  [Code](https://github.com/elidom/my_TidyTues/blob/master/week_19/water.Rmd)
+
+
+
 The [blog](https://luisdva.github.io/rstats/Diverging-bar-plots/) 
 
 Main code
