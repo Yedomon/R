@@ -1,3 +1,29 @@
+
+
+[15 Tips to Customize lines in ggplot2 with element_line()](https://cmdlinetips.com/2021/05/tips-to-customize-lines-in-ggplot2-with-element_line/)
+
+![img](https://i1.wp.com/cmdlinetips.com/wp-content/uploads/2021/05/ggplot2_element_line_tips.png?w=660&ssl=1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - ####   Water map in African countries
 
 ![img](https://github.com/Yedomon/R/blob/main/code.jpg)
