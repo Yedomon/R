@@ -1,5 +1,14 @@
 
 
+
+
+
+[Introduce yourself online using blogdown and Hugo Apèro](https://youtu.be/RksaNh5Ywbo)
+
+
+
+
+
 Using Tidyverse for Genomics - Workshop animated by Dr. Janani Ravi [Video](https://youtu.be/m-7knbiSf9A) | [Blog](https://jananiravi.github.io/workshop-tidyverse/genomics/workshop-tidyverse-genomics.html)
 
 
