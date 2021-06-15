@@ -1,4 +1,24 @@
 
+xarigan [tuto 1](http://arm.rbind.io/slides/xaringan.html#1)  | [tuto 2](https://annakrystalli.me/talks/xaringan/xaringan.html#1)
+
+
+https://datacarpentry.org/organization-geospatial/01-intro-raster-data/index.html
+
+
+https://desktop.arcgis.com/en/arcmap/10.3/manage-data/raster-and-images/what-is-raster-data.htm
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
