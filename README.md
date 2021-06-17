@@ -7,6 +7,16 @@ https://datacarpentry.org/organization-geospatial/01-intro-raster-data/index.htm
 
 https://desktop.arcgis.com/en/arcmap/10.3/manage-data/raster-and-images/what-is-raster-data.htm
 
+http://www.worldclim.com/bioclim
+
+
+https://worldclim.org/data/v1.4/formats.html
+
+
+https://worldclim.org/data/bioclim.html
+
+https://emilypiche.github.io/BIO381/raster.html
+
 
 
 
