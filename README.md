@@ -1,4 +1,14 @@
 
+
+[Ridgeline Plots in R (3 Examples)](https://statisticsglobe.com/ridgeline-plots-in-r)
+
+
+![img](https://statisticsglobe.com/wp-content/uploads/2021/06/figure-3-ridgeline-plots-in-r.png)
+
+
+
+
+
 [Bubble Chart in R-ggplot & Plotly](https://www.r-bloggers.com/2021/06/bubble-chart-in-r-ggplot-plotly/)
 
 ![img](https://i2.wp.com/finnstats.com/wp-content/uploads/2021/06/bubble-chart-in-R.png?zoom=1.25&w=450&ssl=1)
