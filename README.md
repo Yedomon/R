@@ -1,4 +1,21 @@
 
+[Bubble Chart in R-ggplot & Plotly](https://www.r-bloggers.com/2021/06/bubble-chart-in-r-ggplot-plotly/)
+
+![img](https://i2.wp.com/finnstats.com/wp-content/uploads/2021/06/bubble-chart-in-R.png?zoom=1.25&w=450&ssl=1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 xarigan [tuto 1](http://arm.rbind.io/slides/xaringan.html#1)  | [tuto 2](https://annakrystalli.me/talks/xaringan/xaringan.html#1) | [tuto 3](https://alison.rbind.io/project/rladies-xaringan/) | [tuto 4](https://www.katiejolly.io/blog/2021-03-16/designing-slides) | [Code couleur](https://htmlcolorcodes.com/fr/)
 
 
