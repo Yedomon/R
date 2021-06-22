@@ -1,4 +1,6 @@
 
+Dr Tovignan...Please check this answer
+
 
 **Introductive note**
 
@@ -21,7 +23,7 @@ In summary, we introduced how to handle a vector data in the last session. We wi
 Rater data are frequently used to store environmental and climatic data including: rainfall, forest distribution and/or coverage, water, agriculture, land, vegetation, wild animal tracking and management, marine species management, iceberg evolution tracking etc... 
 
 
-
+Thank you.
 
 
 
