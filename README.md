@@ -1,5 +1,34 @@
 
 
+**Introductive note**
+
+A geographic information system (GIS) is a system that creates, manages, analyzes, and maps all types of data. GIS connects data to a map, integrating location data (where things are) with all types of descriptive information (what things are like there). Numerous data format are available in GIS. An exhaustive list can be found [here](https://gisgeography.com/gis-formats/). 
+
+**First session**
+
+In the first session, we dealt with the ESRI Shapefile, a widely used GIS data format. The shapefile format is a geospatial vector data format for geographic information system (GIS) software. Using this vector format, we learnt how to manipulate this data, how to add additionnal information and visualize it.
+
+**Second session**
+
+In the second session, we will dive into another GIS file format called Raster format. Raster data is made up of pixels (also referred to as grid cells). They are usually regularly spaced and square but they don’t have to be. Rasters have pixels that are associated with a value (continuous) or class (discrete). The main objective of this second session is to introduce the raster data manipulation in R and how to unravel the information that it contains. 
+
+**Summary**
+
+In summary, we introduced how to handle a vector data in the last session. We will introduce the raster data type in the next one.
+
+**Application note**
+
+Rater data are frequently used to store environmental and climatic data including: rainfall, forest distribution and/or coverage, water, agriculture, land, vegetation, wild animal tracking and management, marine species management, iceberg evolution tracking etc... 
+
+
+
+
+
+
+
+
+
+
 [Make a website easily with wowchemy hugo theme](https://wowchemy.com/templates/)
 
 
