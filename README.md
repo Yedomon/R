@@ -1,5 +1,33 @@
 
 
+
+
+
+raster file download [1](https://rspatial.org/raster/sdm/4_sdm_envdata.html) | [2](https://rspatial.org/raster/spatial/8-rastermanip.html)
+
+```r
+
+filename <- system.file("external/rlogo.grd", package="raster")
+
+brick(filename)
+
+
+
+nlayers(b)
+
+
+``
+
+
+
+
+
+
+
+
+
+
+
 Today 23 june 2021
 
 
