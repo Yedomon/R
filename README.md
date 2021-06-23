@@ -143,6 +143,17 @@ https://emilypiche.github.io/BIO381/raster.html
 
 
 
+```r
+
+# downloading the bioclimatic variables from worldclim at a resolution of 30 seconds (.5 minutes)
+r <- getData("worldclim", var="bio", res=0.5, lon=-72, lat=44)
+# lets also get the elevational data associated with the climate data
+alt <- getData("worldclim", var="alt", res=.5, lon=-72, lat=44)
+
+```
+
+
+
 
 
 
