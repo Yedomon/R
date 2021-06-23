@@ -1,4 +1,32 @@
 
+
+Today 23 june 2021
+
+
+Inkscape
+
+
+Make a curve : Use Bezier to draw and Shit + A to make a curve at a specific point
+
+Then fill with a color of your choice by selecting Fill bounded area  
+
+Then harmonize the area and stroke color 
+
+Then move the filled shape to the place you want
+
+Then Click End key to put in in backfront
+
+
+
+
+
+
+
+
+
+
+
+
 Dr Tovignan...Please check this answer
 
 
