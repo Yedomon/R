@@ -1,3 +1,6 @@
+[get discrete palette by package and name](https://rdrr.io/cran/paletteer/man/paletteer_d.html)
+
+
 
 
 
