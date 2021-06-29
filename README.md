@@ -1,3 +1,19 @@
+
+
+
+
+![img](https://pbs.twimg.com/media/E5DKj-3X0AMFxnW?format=jpg&name=4096x4096)
+
+
+
+code is [here](https://github.com/GuillemSalazar/tidytuesday/blob/main/2021/week_27/code/tidytuesday.R)
+
+
+
+
+
+
+
 [get discrete palette by package and name](https://rdrr.io/cran/paletteer/man/paletteer_d.html)
 
 
