@@ -1,4 +1,7 @@
 
+[Jakub Nowosad](https://nowosad.github.io/)  | [PPT](https://nowosad.github.io/SIGR2021/lecture/lecture.html#64)
+
+
 
 
 
