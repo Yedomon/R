@@ -148,6 +148,12 @@ Thank you.
 xarigan [tuto 1](http://arm.rbind.io/slides/xaringan.html#1)  | [tuto 2](https://annakrystalli.me/talks/xaringan/xaringan.html#1) | [tuto 3](https://alison.rbind.io/project/rladies-xaringan/) | [tuto 4](https://www.katiejolly.io/blog/2021-03-16/designing-slides) | [Code couleur](https://htmlcolorcodes.com/fr/)
 
 
+import raster file in r
+
+
+https://www.neonscience.org/resources/learning-hub/tutorials/dc-raster-data-r
+
+
 https://datacarpentry.org/organization-geospatial/01-intro-raster-data/index.html
 
 
