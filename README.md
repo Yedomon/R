@@ -1,4 +1,10 @@
 
+map guy R [github](https://github.com/GorkyFlorez/Mapa_tipos_bosques_Inotawa?fbclid=IwAR2q-FZrQn7sVCom8_Dn-Z27W7VEu0eluwafjcXFCP1HjTnVhJwpA9X72p8)
+
+![img](https://scontent-gmp1-1.xx.fbcdn.net/v/t1.6435-9/221714598_1254804264984251_294660843831595982_n.jpg?_nc_cat=104&ccb=1-4&_nc_sid=8bfeb9&_nc_ohc=1B8E0Hrwj2EAX-W0-Z0&_nc_ht=scontent-gmp1-1.xx&oh=1ddb868a7c5bc0a5930414f6adef10eb&oe=6133383D)
+
+
+
 [Jakub Nowosad](https://nowosad.github.io/)  | [PPT](https://nowosad.github.io/SIGR2021/lecture/lecture.html#64)
 
 
