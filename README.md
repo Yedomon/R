@@ -38,11 +38,12 @@ ggpairs(data_f2, columns = 2:5, ggplot2::aes(colour=Type))
 
 output
 
+![img](https://github.com/Yedomon/R/blob/main/ggally_8_78_10_23_landscape.png)
 
 
 
 
-data
+data is [here](https://github.com/Yedomon/R/blob/main/F2_Plants_groupingnodes.csv)
 
 
 
