@@ -191,7 +191,7 @@ ggsave(plot = Fa ,"Mpas/Chicama_elevacion.png", units = "cm", width = 30,height 
 
 Output
 
-![img]()
+![img](https://github.com/Yedomon/R/blob/main/guy/Mapa_de_elevaciones_cuenca_chicama.jpg)
 
 # Mapa de elevación, precipitacion y temperatura de Calabria en R El modelo es totalmente reproducible solo basta de ejecutar el siguiente script o también anexo el github que lo contiene.
 
@@ -351,22 +351,22 @@ ggsave(plot = Www ,"Mpas/Italy_Temperatura.png", units = "cm", width = 21,height
 
 
 ```
+Italy_precipitation
+
+![Italy_precipitation.png](https://github.com/Yedomon/R/blob/main/guy/b.jpg)
+
+
+
+
 Italy_elevacion
 
-![Italy_elevacion.png]()
-
-
-
-
-Italy_elevacion
-
-![Italy_elevacion.png]()
+![Italy_elevacion.png](https://github.com/Yedomon/R/blob/main/guy/a.jpg)
 
 
 Italy_Temperatura
 
 
-![Italy_Temperatura]()
+![Italy_Temperatura](https://github.com/Yedomon/R/blob/main/guy/c.jpg)
 
 
 
