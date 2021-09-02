@@ -6,6 +6,8 @@
 
 [Nick guthub](https://github.com/nstrayer/cv)
 
+[Easy update of the CV](http://nickstrayer.me/datadrivencv/)
+
 
 
 # Mapa de elevación de Chicama en R
