@@ -1,3 +1,8 @@
+[R book ](https://r-graphics.org/recipe-scatter-shapes)
+
+
+
+
 
 [Building a data-driven CV with R](https://livefreeordichotomize.com/2019/09/04/building_a_data_driven_cv_with_r/)
 
