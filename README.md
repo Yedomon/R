@@ -1,3 +1,26 @@
+Gantt chart
+
+
+
+[Beautiful Gantt charts with ggplot2](https://medium.com/european-data-journalism-network/beautiful-gantt-charts-with-ggplot2-80ccd8c2c788)
+
+[repo](https://github.com/giocomai/ganttrify/)
+
+[Interactive website](https://ganttrify.europeandatajournalism.eu/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [R book ](https://r-graphics.org/recipe-scatter-shapes)
 
 
