@@ -2,6 +2,12 @@ Gantt chart
 
 
 
+[Data Wrangling](https://madd.seas.gwu.edu/2021-Fall/class/2-data-wrangling/index.html#1)
+
+
+
+
+
 [Beautiful Gantt charts with ggplot2](https://medium.com/european-data-journalism-network/beautiful-gantt-charts-with-ggplot2-80ccd8c2c788)
 
 [repo](https://github.com/giocomai/ganttrify/)
