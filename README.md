@@ -1,3 +1,42 @@
+
+[markdown images in a row” Code Answer’s](https://www.codegrepper.com/code-examples/whatever/markdown+images+in+a+row)
+
+
+grid style
+
+
+
+```python
+
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
+
+
+```
+
+
+Images side by side
+
+
+
+```python
+
+
+<p float="left">
+  <img src="/img1.png" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
+
+
+```
+
+
+
+
+
 Gantt chart
 
 
