@@ -1,3 +1,69 @@
+[Pheatmap Draws Pretty Heatmaps](https://towardsdatascience.com/pheatmap-draws-pretty-heatmaps-483dab9a3cc)
+
+![img](https://miro.medium.com/max/2400/1*MYS3hV9ehC_ZXg9IV3TX1g.png)
+
+
+Example case
+
+```r
+
+
+# Package
+
+library(pheatmap)
+
+
+# Data
+
+data_set = read.csv("pheatmap-Zscore01.csv", h = T, sep = ",", row.names = 1)
+
+
+# Make a matrix
+
+data_matrix = as.matrix(data_set)
+
+
+# Scale the data
+
+
+data_matrix_scaled = scale(data_matrix)
+
+
+# Render the heatmap
+
+pheatmap(data_matrix)
+
+
+
+
+pheatmap(data_matrix, 
+         cluster_rows =  FALSE, 
+         cluster_cols = FALSE, 
+         show_rownames = FALSE,
+         scale = "row",
+         angle_col = "0")
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [markdown images in a row” Code Answer’s](https://www.codegrepper.com/code-examples/whatever/markdown+images+in+a+row)
 
