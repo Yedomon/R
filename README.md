@@ -1,3 +1,54 @@
+
+# How to handle legend position of GO term plot in ggplot2
+
+
+The current script is as follows
+
+
+```r
+
+g = ggplot(GO_all, aes(x = GOName, y = Time, color = `PValue` )) +
+  geom_point(data=GO_all,aes(x = GOName, y = Time, size = `FoldChange`), alpha=.7)+
+  coord_flip()+
+  theme_bw()+
+  theme(axis.ticks.length=unit(-0.1, "cm"),
+        axis.text.x = element_text(margin=margin(5,5,0,5,"pt")),
+        axis.text.y = element_text(margin=margin(5,5,5,5,"pt")),
+        axis.text = element_text(color = "black"),
+        panel.grid.minor = element_blank(),
+        legend.title.align=0.5)+
+  xlab("Processes")+
+  ylab("Time")+
+  labs(color="P Value", size="Fold Change")+ #Replace by your variable names; \n allow a new line for text
+  scale_color_gradient(low="green",high="red",limits=c(0, NA)) +
+  guides(colour = guide_colourbar(order = 1),
+            size = guide_legend(order=2))
+
+
+
+```
+
+
+here 
+
+
+```
+
+guides(colour = guide_colourbar(order = 1),
+            size = guide_legend(order=2))
+
+```
+
+helps to set color first and size in second position.
+
+
+
+Ref: Source is [here](http://www.sthda.com/english/wiki/ggplot2-legend-easy-steps-to-change-the-position-and-the-appearance-of-a-graph-legend-in-r-software)
+
+
+
+
+
 [Pheatmap Draws Pretty Heatmaps](https://towardsdatascience.com/pheatmap-draws-pretty-heatmaps-483dab9a3cc)
 
 ![img](https://miro.medium.com/max/2400/1*MYS3hV9ehC_ZXg9IV3TX1g.png)
