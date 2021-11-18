@@ -1,4 +1,18 @@
 
+
+
+
+[axis reordering in ggplot2](https://r-graphics.org/recipe-axis-order)
+
+```
+
+scale_x_discrete(limits = c("trt1", "ctrl", "trt2"))
+
+scale_y_discrete(limits = c("trt1", "ctrl", "trt2"))
+
+```
+
+
 # How to handle legend position of GO term plot in ggplot2
 
 
