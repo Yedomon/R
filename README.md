@@ -2,7 +2,7 @@
 
 Use ggvendiagram. 
 
-Nota Bene: When all columns have the same length ======> that is fine. But when the lengths are different proceed by creatin a separated dataframe tha should be convert into vector. Then merge thos vector into a list. Then rename it by providing the category name as described in the following script.
+**Nota Bene**: When all columns have the same length ======> that is fine. But when the lengths are different proceed by creatin a separated dataframe tha should be convert into vector. Then merge thos vector into a list. Then rename it by providing the category name as described in the following script.
 
 
 
