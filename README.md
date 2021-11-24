@@ -1,5 +1,73 @@
 
 
+Use ggvendiagram. 
+
+Nota Bene: When all columns have the same length ======> that is fine. But when the lengths are different proceed by creatin a separated dataframe tha should be convert into vector. Then merge thos vector into a list. Then rename it by providing the category name as described in the following script.
+
+
+
+
+```r
+##########################################Summary##############################
+
+# Step 1: LOAD LIBRARIES
+
+library(ggVennDiagram)
+library(ggplot2)
+
+
+# sTEP 2: LOAD DATA FRAMES OF EACH SET SEPARATELY TO AVOID EMPTY CELL ISSUE
+
+T1_data = read.csv("t1_test.csv", sep = ",")
+T3_data = read.csv("t3_test.csv", sep = ",")
+T6_data = read.csv("t6_test.csv", sep = ",")
+T24_data = read.csv("t24_test.csv", sep = ",")
+
+
+# STEP 3: CHANGE DATFRAME INTO VECTOR FORMAT
+
+
+t1 = T1_data$T1
+t3 = T3_data$T3
+t6 = T6_data$T6
+t24 = T24_data$T24
+
+
+# STEP 4: MAKE LIST FORMAT OF OUR DATASET
+
+data_list = list(t1, t3, t6, t24)
+
+
+# STEP 5: RUN DEFAULT COMMAND
+
+
+ggVennDiagram(data_list)
+
+
+# STEP 6: RENAME CATEGORY
+
+data_list_renamed = list(T1 = t1, T3 = t3, T6 = t6, T24 = t24)
+
+
+# STEP 7:RE RUN
+
+ggVennDiagram(data_list_renamed)
+
+
+# STEP 8: CUSTUMIZATION
+
+
+ggVennDiagram(data_list_renamed, edge_size= 0, edge_lty = 0) + 
+  scale_fill_gradient(low="white",high = "#333366") 
+
+
+
+```
+
+
+
+
+
 
 
 [axis reordering in ggplot2](https://r-graphics.org/recipe-axis-order)
