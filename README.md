@@ -1,3 +1,73 @@
+Memory limits issue
+
+https://stackoverflow.com/questions/5171593/r-memory-management-cannot-allocate-vector-of-size-n-mb/5174383
+
+I followed to the help page of memory.limit and found out that on my computer R by default can use up to ~ 1.5 GB of RAM and that the user can increase this limit. Using the following code,
+
+
+```
+
+>memory.limit()
+[1] 1535.875
+> memory.limit(size=1800)
+helped me to solve my problem.
+
+```
+
+From alignment to tree construction
+
+
+We need [MAFFT](https://anaconda.org/bioconda/mafft), [trimAL](https://anaconda.org/bioconda/trimal) and [IQTree](https://anaconda.org/bioconda/iqtree)
+
+
+```
+
+vi run_phylo.sh
+
+#!/bin/bash
+
+set -e
+
+##############################################################################
+# The following  script was designed for a specific working directory.
+# For reproduction, please proceed to an adaptation of your working directory.
+##############################################################################
+
+# Created on Thursday November 042020.
+
+# Author: Yedomon Ange Bovys Zoclanclounon | National Institute of Agricultural Science | Rep. Korea
+
+# Version:1
+
+cd /NABIC/HOME/yedomon1/lea_genes/01_data/genome
+
+#---Variable declaration
+
+genes=si_lea_genes.pepno.asterisk.renamedfasta
+
+#---multiple sequence alignment
+
+source activate mafft_env
+mafft --maxiterate 1000 --localpair --thread 96 $genes > ${genes}.mafft
+source deactivate mafft_env
+
+#---alignment trimming
+source activate trimal_env
+trimal -automated1 -in ${genes}.mafft -out ${genes}.mafft.trimal
+source deactivate trimal_env
+
+#---Maximum Likehood tree construction with automatic model selection for each gene
+source activate iqtree_env
+iqtree -s ${genes}.mafft.trimal -nt AUTO
+source deactivate iqtree_env
+
+#--End
+
+$ /usr/bin/time -o out.time.ram.txt -v bash run_phylo_lea_in.sh &> log.si_lea &
+
+
+```
+
 
 
 Use ggvendiagram. 
