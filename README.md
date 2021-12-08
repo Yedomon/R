@@ -1,3 +1,12 @@
+FACETTING
+
+
+How to facet_wrap with special [order](https://statisticsglobe.com/reorder-facets-in-ggplot2-plot-in-r) and number of [column or row](http://zevross.com/blog/2019/04/02/easy-multi-panel-plots-in-r-using-facet_wrap-and-facet_grid-from-ggplot2/)
+
+
+
+
+
 
 
 
