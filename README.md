@@ -1,6 +1,9 @@
 
 [Lollipop plots with ggplot2 in R](https://rforpoliticalscience.com/2022/01/10/lollipop-plots-with-ggplot2-in-r/?s=03)
 
+
+![img](https://mapstats.files.wordpress.com/2022/01/image-9.png)
+
 [Tanya Shapiro](https://github.com/tashapiro) | [Code Doctor Who is the best](https://github.com/tashapiro/TidyTuesday/blob/master/2021/W48/doctor_who.R)
 
 ![img](https://pbs.twimg.com/media/FE50wVmWUAABAae?format=jpg&name=4096x4096)
