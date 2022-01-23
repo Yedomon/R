@@ -1,5 +1,5 @@
 
-
+[Lollipop plots with ggplot2 in R](https://rforpoliticalscience.com/2022/01/10/lollipop-plots-with-ggplot2-in-r/?s=03)
 
 [Tanya Shapiro](https://github.com/tashapiro) | [Code Doctor Who is the best](https://github.com/tashapiro/TidyTuesday/blob/master/2021/W48/doctor_who.R)
 
