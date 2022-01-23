@@ -1,6 +1,40 @@
 
 
 
+Tanya Shapiro | [Code Doctor Who is the best](https://github.com/tashapiro/TidyTuesday/blob/master/2021/W48/doctor_who.R)
+
+![img](https://pbs.twimg.com/media/FE50wVmWUAABAae?format=jpg&name=4096x4096)
+
+
+
+Tania Shapiro | [Code Peloton Active Days Calendar](https://github.com/tashapiro/peloton-stats/blob/main/code/peloton-active-days-calendar.R)
+
+
+![img](https://pbs.twimg.com/media/FJtbulGXMAUUSYG?format=jpg&name=4096x4096)
+
+
+
+Tania Shapiro | [Code Peloton Data Summary](https://github.com/tashapiro/peloton-stats/blob/main/code/instructor-reacttable.R) | [Online Source](https://www.tanyashapiro.com/interactive-visuals/peloton-summary)
+
+![img](https://pbs.twimg.com/media/FIxQ_MNXEAAJhqk?format=jpg&name=large)
+
+
+
+Tania Shapiro | [Code Nobel Prize](https://github.com/tashapiro/noble-prize-laureates/blob/main/code/noble-prize-laureates.R)
+
+
+![img](https://pbs.twimg.com/media/FGRoMOJWYAwQAyR?format=jpg&name=4096x4096)
+
+
+
+
+Tania Shapiro | [Code Spider](https://github.com/tashapiro/TidyTuesday/blob/master/2021/W50/spiders.R)
+
+![img](https://pbs.twimg.com/media/FGBLLloWQAozzo4?format=jpg&name=4096x4096)
+
+
+
+
 [Introducing portfoliodown: The Data Science Portfolio Website](https://www.r-bloggers.com/2021/12/introducing-portfoliodown-the-data-science-portfolio-website-builder/) | [Example](https://mattdancho.netlify.app/)
 
 
@@ -14,6 +48,8 @@ https://shaziaruybal.com/publications/
 
 
 ![img](https://pbs.twimg.com/media/FG-FcFfXwAcZcMH?format=jpg&name=large)
+
+
 
 
 
