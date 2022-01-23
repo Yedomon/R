@@ -1,7 +1,7 @@
 
 
 
-Tanya Shapiro | [Code Doctor Who is the best](https://github.com/tashapiro/TidyTuesday/blob/master/2021/W48/doctor_who.R)
+[Tanya Shapiro](https://github.com/tashapiro) | [Code Doctor Who is the best](https://github.com/tashapiro/TidyTuesday/blob/master/2021/W48/doctor_who.R)
 
 ![img](https://pbs.twimg.com/media/FE50wVmWUAABAae?format=jpg&name=4096x4096)
 
