@@ -1,4 +1,11 @@
 
+
+[Spiral plot](https://jokergoo.github.io/2022/02/03/spiral-visualization-of-daily-git-commits/)
+
+
+![img](https://pbs.twimg.com/media/FK3RhjIXwAg2ZqQ?format=jpg&name=4096x4096)
+
+
 [Lollipop plots with ggplot2 in R](https://rforpoliticalscience.com/2022/01/10/lollipop-plots-with-ggplot2-in-r/?s=03)
 
 
