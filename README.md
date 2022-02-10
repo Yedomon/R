@@ -1,5 +1,86 @@
 
 
+# ggplot2 with line highlighted
+
+
+The data set was like this:
+
+
+```python
+> head(data_exp)
+   Feature_GID Time        Exp        Genes high
+1 Sto11g362400   T0 -0.4531269 Sto11g362400  sto
+2 Sto08g235580   T0 -0.5096497 Sto08g235580  sto
+3 Sto05g126830   T0 -0.3566379 Sto05g126830  sto
+4 Sto03g086740   T0 -0.4585065 Sto03g086740  sto
+5 Sto06g193230   T0 -0.3875058 Sto06g193230  sto
+6 Sto13g408840   T0 -0.5491300 Sto13g408840  sto
+
+
+```
+
+
+The following code was employed
+
+
+
+
+
+
+```r
+
+# check the working directory
+
+getwd()
+
+
+# Package
+
+library(ggplot2)
+library(dplyr)
+
+
+# data import
+
+
+data_exp = read.csv("clustering-MJ-05.csv", sep = ",", h = T)
+
+View(data_exp)
+
+
+names(data_exp)
+
+
+
+data_highlight =  data_exp  %>%
+    filter(high == "sto")
+
+
+View(data_highlight)
+
+
+# Plot line graph
+
+#data_exp$Time = with(data_exp, reorder(T0,T1,T3,T6,T24))
+
+ggplot() +
+  geom_line(aes(x = Time, y = Exp,  group= Feature_GID), colour = alpha("grey", 0.4), data = data_exp) +
+  geom_line(aes(x = Time, y = Exp, group= Feature_GID, color = Genes), size = 1, data = data_highlight) +
+  scale_x_discrete(limits = c("T0", "T1", "T3", "T6", "T24")) +
+  theme_bw()
+
+```
+
+
+
+
+
+
+![img]()
+
+
+
+
 [Spiral plot](https://jokergoo.github.io/2022/02/03/spiral-visualization-of-daily-git-commits/)
 
 
