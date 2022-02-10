@@ -76,7 +76,7 @@ ggplot() +
 
 
 
-![img]()
+![img](https://github.com/Yedomon/R/blob/main/Rplot06.jpeg)
 
 
 
