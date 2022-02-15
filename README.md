@@ -1,11 +1,19 @@
-Tania Shapiro [Tweet](https://twitter.com/tanya_shapiro/status/1493266701814837255?cxt=HHwWjsC9yeqJk7kpAAAA)
+Tania Shapiro [Tweet](https://twitter.com/tanya_shapiro/status/1493266701814837255?cxt=HHwWjsC9yeqJk7kpAAAA) | [Inspi1](https://www.r-graph-gallery.com/web-circular-barplot-with-R-and-ggplot2.html) | [Inspi2](https://www.r-graph-gallery.com/web-circular-lollipop-plot-with-ggplot2.html)
 
 
 ![img](https://pbs.twimg.com/media/FLkjXoWXMAImKqp?format=jpg&name=4096x4096)
 
 
+[ELEGANT CIRCULAR BAR PLOT](https://www.r-graph-gallery.com/web-circular-barplot-with-R-and-ggplot2.html
+
+![IMG](https://www.r-graph-gallery.com/img/fromTheWeb/dataviz_hiking.png)
 
 
+
+
+[CIRCULAR LOLLIPOP](https://www.r-graph-gallery.com/web-circular-lollipop-plot-with-ggplot2.html)
+
+![IMG](https://www.r-graph-gallery.com/web-circular-lollipop-plot-with-ggplot2_files/figure-html/unnamed-chunk-7-1.png)
 
 # ggplot2 with line highlighted
 
