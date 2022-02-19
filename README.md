@@ -1,3 +1,10 @@
+
+
+[Free Video Compressor](https://www.freeconvert.com/video-compressor)
+
+
+[echarty github](https://github.com/helgasoft/echarty) [echarty website](https://helgasoft.github.io/echarty/)
+
 Tania Shapiro [Tweet](https://twitter.com/tanya_shapiro/status/1493266701814837255?cxt=HHwWjsC9yeqJk7kpAAAA) | [Inspi1](https://www.r-graph-gallery.com/web-circular-barplot-with-R-and-ggplot2.html) | [Inspi2](https://www.r-graph-gallery.com/web-circular-lollipop-plot-with-ggplot2.html)
 
 
