@@ -3,7 +3,40 @@
 ## ggplot_theme_system_cheatsheet
 
 
-[Cheatsheet](https://github.com/claragranell/ggplot2/blob/main/ggplot_theme_system_cheatsheet.pdf)
+Hi all,
+
+ 
+
+As a follow to the talk at the Iso-Seq social club today and for those of you that weren’t able to make it, we wanted to introduce ggtranscript.
+
+ 
+
+GitHub: https://github.com/dzhang32/ggtranscript
+
+Documentation: https://dzhang32.github.io/ggtranscript/
+
+ 
+
+ggtranscript is a R package that makes it easy to visualise transcript structures and annotation (such as IsoSeq data). We hope you find it useful! As ggtranscript is currently in development, we would appreciate any feedback. For example, if there’s any additional functionality you would find useful, we would be happy to try implementing.
+
+ 
+
+Best,
+
+ 
+
+Emil and David
+
+
+
+![img](https://dzhang32.github.io/ggtranscript/articles/ggtranscript_files/figure-html/to-diff-1.png)
+
+
+
+
+
+
+[ggplot2 Cheatsheet](https://github.com/claragranell/ggplot2/blob/main/ggplot_theme_system_cheatsheet.pdf)
 
 
 
