@@ -1,5 +1,15 @@
 
 
+[easystats: Quickly investigate model performance](https://www.business-science.io/r/2021/07/13/easystats-performance-check-model.html?utm_content=bufferecb28&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&s=03)
+
+
+![IMG](https://www.business-science.io/assets/2021-07-13-easystats/performance_check_model_plot.jpg)
+
+[How to use Fonts and Icons in ggplot](https://albert-rapp.de/post/2022-03-04-fonts-and-icons/?s=03)
+
+
+![img](https://albert-rapp.de/post/2022-03-04-fonts-and-icons/index_files/figure-html/unnamed-chunk-10-1.png)
+
 ## ggtranscript
 
 
