@@ -1,4 +1,11 @@
 
+How to use Fonts and Icons in ggplot by @rappa753 | [tweet]() | [link](https://albert-rapp.de/post/2022-03-04-fonts-and-icons/)
+
+
+![img](https://albert-rapp.de/post/2022-03-04-fonts-and-icons/index_files/figure-html/unnamed-chunk-5-1.png)
+
+
+
 
 [easystats: Quickly investigate model performance](https://www.business-science.io/r/2021/07/13/easystats-performance-check-model.html?utm_content=bufferecb28&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&s=03)
 
