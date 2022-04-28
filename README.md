@@ -1,4 +1,10 @@
 
+[tweet](https://twitter.com/rmarkdown/status/1519612342669135872) | [video](https://www.youtube.com/watch?v=y5VcxMOnj3M&t=1535s)
+
+
+
+
+
 [RStudio Community Table Gallery](https://www.r-bloggers.com/2022/04/rstudio-community-table-gallery/)
 
 ![img](https://community.rstudio.com/uploads/default/original/3X/4/8/48402a1f525a44b078a05acce6275cfb96c54432.jpeg)
