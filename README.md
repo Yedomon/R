@@ -1,5 +1,6 @@
 
-[tweet](https://twitter.com/rmarkdown/status/1519612342669135872) | [video](https://www.youtube.com/watch?v=y5VcxMOnj3M&t=1535s)
+[tweet | Create beautiful documents with Quarto and R](https://twitter.com/rmarkdown/status/1519612342669135872) | [video | Create beautiful documents with Quarto and R](https://www.youtube.com/watch?v=y5VcxMOnj3M&t=1535s)
+
 
 
 
