@@ -4,7 +4,7 @@ Today 11 May 2022
 
 I discovered IdeoViz a greta too to plot in linear way the density or any genomic variable. But the question is how to do it?
 
-We need basiccally three major steps
+We need basiccally four major steps
 
 ### Step 1: Installation
 
