@@ -1,4 +1,150 @@
 
+Today 11 May 2022
+
+
+I discovered IdeoViz a greta too to plot in linear way the density or any genomic variable. But the question is how to do it?
+
+We need basiccally three major steps
+
+### Step 1: Installation
+
+To install this package, start R (version "4.2") and enter:
+
+
+```r
+
+if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+
+BiocManager::install("IdeoViz")
+
+```
+
+### Step 2: Load the libraries 
+
+```r
+
+library(IdeoViz)
+library(RColorBrewer) # For coloring
+
+```
+
+
+### Step 3: Make your Karyotype dataset called ideo
+
+
+To make ideo data you just need to create a dataframe table like this:
+
+
+```r
+
+ chrom chromStart chromEnd   name gieStain
+  chr1          0  2300000 p36.33     gneg
+  chr1    2300000  5300000 p36.32   gpos25
+  chr1    5300000  7100000 p36.31     gneg
+  chr1    7100000  9200000 p36.23   gpos25
+  chr1    9200000 12600000 p36.22     gneg
+  chr1   12600000 16100000 p36.21   gpos50
+
+```
+
+
+The first three columns are enough if you don't have the citoband info.
+
+
+
+
+
+### Step 4: Make your GRanges-class GenomicRanges  object
+
+
+Basically we need to prepare a file containing
+
+- seqnames : chr1
+- ranges: 1-100000 the bin
+- group1: GC content density value for example
+- group2: Snp coverage for example
+
+
+To do so import in R each GC and snp content coverage files
+
+
+
+```r
+
+# fileA = "GC.coverage"
+# fileB = "snp.coverage"
+
+A = read.table(fileA, as.is = T, sep="\t", header=F)
+B = read.table(fileB, as.is = T, sep="\t", header=F)
+
+
+```
+
+Then create the genomic range object by usiong **Granges function**
+
+
+```r
+
+
+data = GRanges(A$V1, IRanges(start = A$V2, end = A$V3) )
+mcols(data)$group1 = scale(B$V4) - 2
+mcols(data)$group2 = scale(A$V4) + 2
+
+
+```
+
+
+with 
+
+- A$V1 : the chromosome ID info
+- IRanges(start = A$V2, end = A$V3): the bin start and end of the bin
+- mcols(data)$group1 = scale(B$V4) - 2 : create GC content info named group1 by scaleing the value - 2 | or simply keep your own value
+- cols(data)$group2 = scale(A$V4) + 2 : create GC content info named group1 by scaleing the value + 2 | or simply keep your own value
+
+
+
+### Now make the plot
+
+
+```r
+
+
+plotOnIdeo(chrom = seqlevels(data),
+           ideoTable = ideo,
+           values_GR = data,
+           value_cols = colnames(mcols(data)),
+           col = c('orange', 'blue'),
+           addScale = F,
+           val_range=c(-5,5),
+           plotType='lines',
+           plot_title = paste("Differrence between", gsub(".coverage","",fileA), gsub(".coverage","",fileB), "bin",windows_size),
+           cex.axis = 0.8,
+           chromName_cex = 0.6,
+           vertical = T)
+
+
+
+```
+
+
+References
+
+- [snp plotting](https://github.com/dridk/snp_location/blob/master/plot_chrom.r)
+- [vignette PDF](https://www.bioconductor.org/packages/release/bioc/vignettes/IdeoViz/inst/doc/Vignette.pdf)
+- [vignette Rscript](https://www.bioconductor.org/packages/release/bioc/vignettes/IdeoViz/inst/doc/Vignette.R)
+- [bioconductor page](https://www.bioconductor.org/packages/release/bioc/html/IdeoViz.html)
+
+
+
+
+
+
+
+
+
+
+
 [tweet | Create beautiful documents with Quarto and R](https://twitter.com/rmarkdown/status/1519612342669135872) | [video | Create beautiful documents with Quarto and R](https://www.youtube.com/watch?v=y5VcxMOnj3M&t=1535s)
 
 
