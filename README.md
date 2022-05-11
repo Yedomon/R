@@ -136,6 +136,28 @@ References
 - [bioconductor page](https://www.bioconductor.org/packages/release/bioc/html/IdeoViz.html)
 
 
+The code chunk example 1 fit well my work
+
+
+```r
+
+###################################################
+### code chunk number 2: example1
+###################################################
+ideo <- getIdeo("hg18")
+head(ideo)
+plotOnIdeo(chrom=seqlevels(binned_multiSeries), # which chrom to plot?
+           ideoTable=ideo, # ideogram name
+           values_GR=binned_multiSeries, # data goes here
+           value_cols=colnames(mcols(binned_multiSeries)), # col to plot
+           col=brewer.pal(n=5, 'Spectral'), # colours
+           val_range=c(0,10), # set y-axis range
+           ylab="array intensities",
+           plot_title="Trendline example")  
+
+
+
+```
 
 
 
