@@ -130,6 +130,7 @@ plotOnIdeo(chrom = seqlevels(data),
 
 References
 
+- [biostar link](https://www.biostars.org/p/218480/)
 - [snp plotting](https://github.com/dridk/snp_location/blob/master/plot_chrom.r)
 - [vignette PDF](https://www.bioconductor.org/packages/release/bioc/vignettes/IdeoViz/inst/doc/Vignette.pdf)
 - [vignette Rscript](https://www.bioconductor.org/packages/release/bioc/vignettes/IdeoViz/inst/doc/Vignette.R)
