@@ -1,4 +1,28 @@
 
+Today 5 July 2022
+
+
+
+Faire n bonCV avec R
+
+
+
+
+[tweet](https://twitter.com/drokanbulut/status/1543999664814301184) | [github](https://github.com/mitchelloharawild/vitae) | [video](https://youtu.be/cMlRAiQUdD8)
+
+
+
+
+
+J'ai aime le plus simple c'est celui de [Eric Scott](https://github.com/Aariq/curriculum-vitae/blob/master/CV/CV.pdf)
+
+
+
+Mais j'aime bien celui de [Lorena Abad](https://github.com/loreabad6/R-CV/blob/master/CV.pdf)
+
+
+
+
 Today 23 May 2022
 
 
