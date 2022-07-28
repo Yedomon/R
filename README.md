@@ -10,7 +10,7 @@ I perform a buble plot based on KOBAS-i result
 the script and data are [here](https://github.com/Yedomon/R/tree/main/bubble_plot_keeg_annotation)
 
 
-![img]()
+![img](https://github.com/Yedomon/R/blob/main/bubble_plot_keeg_annotation/output/j17_kegg_default12.93_6.26.jpg)
 
 
 
