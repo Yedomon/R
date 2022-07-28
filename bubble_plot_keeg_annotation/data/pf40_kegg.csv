@@ -1,0 +1,91 @@
+term,gene_number,p_value,enrich_ratio
+Diterpenoid biosynthesis,6,0.000222688,0.272727273
+Plant hormone signal transduction,18,0.006508693,0.065934066
+Ribosome,20,0.024481095,0.054945055
+One carbon pool by folate,3,0.036288128,0.15
+Monoterpenoid biosynthesis,2,0.039101131,0.25
+Flavonoid biosynthesis,3,0.044967028,0.136363636
+Sesquiterpenoid and triterpenoid biosynthesis,3,0.049656806,0.130434783
+Nitrogen metabolism,4,0.063663269,0.093023256
+ABC transporters,3,0.065074079,0.115384615
+MAPK signaling pathway - plant,8,0.087940759,0.059701493
+DNA replication,4,0.095107129,0.08
+Zeatin biosynthesis,3,0.101473168,0.09375
+Photosynthesis,5,0.123994815,0.064935065
+Ribosome biogenesis in eukaryotes,6,0.130608195,0.059405941
+Selenocompound metabolism,2,0.134019464,0.111111111
+Mismatch repair,3,0.151731142,0.076923077
+Biosynthesis of secondary metabolites,43,0.171447947,0.038843722
+Oxidative phosphorylation,8,0.174351646,0.05
+Lipoic acid metabolism,1,0.177936184,0.2
+mRNA surveillance pathway,6,0.194408069,0.052173913
+Cyanoamino acid metabolism,4,0.207512782,0.057971014
+Nucleotide excision repair,4,0.207512782,0.057971014
+Ubiquitin mediated proteolysis,7,0.208727966,0.048951049
+"Glycine, serine and threonine metabolism",4,0.214254339,0.057142857
+Plant-pathogen interaction,8,0.215041966,0.047058824
+Cysteine and methionine metabolism,6,0.224787244,0.049586777
+"Stilbenoid, diarylheptanoid and gingerol biosynthesis",1,0.229917422,0.142857143
+Brassinosteroid biosynthesis,1,0.254663241,0.125
+Glutathione metabolism,5,0.260884387,0.049019608
+Phenylpropanoid biosynthesis,7,0.321718523,0.042168675
+Terpenoid backbone biosynthesis,3,0.329889806,0.05
+Tryptophan metabolism,3,0.329889806,0.05
+Proteasome,3,0.329889806,0.05
+Fatty acid elongation,2,0.334404462,0.057142857
+RNA transport,7,0.347693908,0.040935673
+Monobactam biosynthesis,1,0.38731812,0.071428571
+Homologous recombination,3,0.391485222,0.044776119
+Autophagy - other,2,0.392600252,0.05
+Tyrosine metabolism,2,0.392600252,0.05
+Protein processing in endoplasmic reticulum,8,0.406677442,0.037914692
+Lysine biosynthesis,1,0.407010106,0.066666667
+Base excision repair,2,0.42640332,0.046511628
+Propanoate metabolism,2,0.42640332,0.046511628
+Arachidonic acid metabolism,1,0.44451732,0.058823529
+Spliceosome,7,0.457769342,0.036458333
+Riboflavin metabolism,1,0.462372473,0.055555556
+Other glycan degradation,1,0.47965421,0.052631579
+Glyoxylate and dicarboxylate metabolism,3,0.484772308,0.038461538
+"Alanine, aspartate and glutamate metabolism",2,0.511317732,0.039215686
+Phagosome,3,0.516993643,0.036585366
+Isoquinoline alkaloid biosynthesis,1,0.528239986,0.045454545
+Porphyrin and chlorophyll metabolism,2,0.53122281,0.037735849
+Glucosinolate biosynthesis,1,0.543406245,0.043478261
+Pyruvate metabolism,3,0.548097622,0.034883721
+Pyrimidine metabolism,2,0.569341409,0.035087719
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,1,0.572292992,0.04
+Folate biosynthesis,1,0.586044244,0.038461538
+Pantothenate and CoA biosynthesis,1,0.612235754,0.035714286
+Citrate cycle (TCA cycle),2,0.622207907,0.031746032
+Carotenoid biosynthesis,1,0.62470391,0.034482759
+Amino sugar and nucleotide sugar metabolism,4,0.633828473,0.030534351
+Phenylalanine metabolism,1,0.659756131,0.03125
+Metabolic pathways,71,0.680041729,0.031611754
+"Tropane, piperidine and pyridine alkaloid biosynthesis",1,0.691537246,0.028571429
+Arginine biosynthesis,1,0.701457601,0.027777778
+2-Oxocarboxylic acid metabolism,2,0.705839862,0.027027027
+Ubiquinone and other terpenoid-quinone biosynthesis,1,0.720352263,0.026315789
+RNA degradation,3,0.724249125,0.026548673
+Sulfur metabolism,1,0.754632656,0.023809524
+Fatty acid biosynthesis,1,0.76252546,0.023255814
+alpha-Linolenic acid metabolism,1,0.770164599,0.022727273
+SNARE interactions in vesicular transport,1,0.770164599,0.022727273
+Peroxisome,2,0.784168369,0.022988506
+Fatty acid degradation,1,0.791640188,0.021276596
+"Valine, leucine and isoleucine degradation",1,0.817188288,0.019607843
+Protein export,1,0.834273458,0.018518519
+Biosynthesis of amino acids,6,0.836560044,0.023904382
+Basal transcription factors,1,0.839606328,0.018181818
+"Phenylalanine, tyrosine and tryptophan biosynthesis",1,0.844767746,0.017857143
+Galactose metabolism,1,0.849763219,0.01754386
+Endocytosis,3,0.854910139,0.020833333
+Glycolysis / Gluconeogenesis,2,0.896111381,0.017241379
+Carbon fixation in photosynthetic organisms,1,0.898544742,0.014492754
+Fatty acid metabolism,1,0.898544742,0.014492754
+Pentose and glucuronate interconversions,1,0.958080106,0.010416667
+Glycerophospholipid metabolism,1,0.959430716,0.010309278
+Purine metabolism,1,0.963227235,0.01
+Starch and sucrose metabolism,2,0.97223829,0.012121212
+Aminoacyl-tRNA biosynthesis,1,0.9775036,0.008695652
+Carbon metabolism,4,0.979082393,0.014652015

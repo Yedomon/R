@@ -1,0 +1,16 @@
+term,gene_number,p_value,enrich_ratio
+Glycerolipid metabolism,2,0.001029025,0.033333333
+Metabolic pathways,7,0.001153648,0.003116652
+Glycerophospholipid metabolism,2,0.002594535,0.020618557
+Circadian rhythm - plant,1,0.027880614,0.027777778
+Ribosome,2,0.031558576,0.005494505
+Pyrimidine metabolism,1,0.043371169,0.01754386
+Terpenoid backbone biosynthesis,1,0.045564668,0.016666667
+Fructose and mannose metabolism,1,0.048481822,0.015625
+Biosynthesis of secondary metabolites,3,0.051336815,0.002710027
+Pentose and glucuronate interconversions,1,0.071512897,0.010416667
+Purine metabolism,1,0.074353869,0.01
+Aminoacyl-tRNA biosynthesis,1,0.084933373,0.008695652
+Amino sugar and nucleotide sugar metabolism,1,0.096090202,0.007633588
+Oxidative phosphorylation,1,0.115979963,0.00625
+Starch and sucrose metabolism,1,0.11936649,0.006060606

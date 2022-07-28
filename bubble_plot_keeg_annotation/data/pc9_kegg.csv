@@ -1,0 +1,43 @@
+term,gene_number,p_value,enrich_ratio
+Carbon metabolism,6,2.99E-05,0.021978022
+Biosynthesis of amino acids,4,0.002191327,0.015936255
+Sulfur metabolism,2,0.004011081,0.047619048
+"Glycine, serine and threonine metabolism",2,0.010429117,0.028571429
+Glyoxylate and dicarboxylate metabolism,2,0.012753236,0.025641026
+Purine metabolism,2,0.020173624,0.02
+mRNA surveillance pathway,2,0.02603999,0.017391304
+Cysteine and methionine metabolism,2,0.028557599,0.016528926
+Biosynthesis of secondary metabolites,6,0.031465834,0.005420054
+Monobactam biosynthesis,1,0.031556367,0.071428571
+Selenocompound metabolism,1,0.039804285,0.055555556
+One carbon pool by folate,1,0.043902239,0.05
+Isoquinoline alkaloid biosynthesis,1,0.047982953,0.045454545
+Metabolic pathways,9,0.049933539,0.004007124
+Biosynthesis of unsaturated fatty acids,1,0.052046498,0.041666667
+RNA transport,2,0.052925299,0.011695906
+Phenylalanine metabolism,1,0.068130405,0.03125
+"Tropane, piperidine and pyridine alkaloid biosynthesis",1,0.074092263,0.028571429
+Arginine biosynthesis,1,0.076071181,0.027777778
+Tyrosine metabolism,1,0.08394525,0.025
+Propanoate metabolism,1,0.089807357,0.023255814
+Nitrogen metabolism,1,0.089807357,0.023255814
+alpha-Linolenic acid metabolism,1,0.091753164,0.022727273
+Fatty acid degradation,1,0.097566014,0.021276596
+beta-Alanine metabolism,1,0.10334219,0.02
+"Valine, leucine and isoleucine degradation",1,0.105259472,0.019607843
+"Alanine, aspartate and glutamate metabolism",1,0.105259472,0.019607843
+Arginine and proline metabolism,1,0.110987103,0.018518519
+Basal transcription factors,1,0.11288827,0.018181818
+"Phenylalanine, tyrosine and tryptophan biosynthesis",1,0.11478543,0.017857143
+Cyanoamino acid metabolism,1,0.139087565,0.014492754
+Carbon fixation in photosynthetic organisms,1,0.139087565,0.014492754
+Fatty acid metabolism,1,0.139087565,0.014492754
+2-Oxocarboxylic acid metabolism,1,0.148258389,0.013513514
+Pyruvate metabolism,1,0.169877316,0.011627907
+Peroxisome,1,0.171654282,0.011494253
+Pentose and glucuronate interconversions,1,0.187479185,0.010416667
+Aminoacyl-tRNA biosynthesis,1,0.219915144,0.008695652
+Glycolysis / Gluconeogenesis,1,0.221586481,0.00862069
+Endocytosis,1,0.266977323,0.006944444
+Plant-pathogen interaction,1,0.30678466,0.005882353
+Ribosome,1,0.543628751,0.002747253

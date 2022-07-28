@@ -1,0 +1,96 @@
+term,gene_number,p_value,enrich_ratio
+Oxidative phosphorylation,33,2.50E-10,0.20625
+Photosynthesis,23,3.21E-10,0.298701299
+RNA degradation,20,6.31E-06,0.17699115
+Ribosome,39,3.40E-05,0.107142857
+Nucleotide excision repair,13,0.000147778,0.188405797
+Metabolic pathways,151,0.000475631,0.067230632
+DNA replication,10,0.000558341,0.2
+Proteasome,10,0.001899957,0.166666667
+Spliceosome,20,0.003433968,0.104166667
+Basal transcription factors,9,0.003513219,0.163636364
+Mismatch repair,7,0.006219314,0.179487179
+Glutathione metabolism,12,0.009126046,0.117647059
+C5-Branched dibasic acid metabolism,3,0.010459617,0.428571429
+Homologous recombination,9,0.010880631,0.134328358
+Non-homologous end-joining,3,0.013870982,0.375
+Diterpenoid biosynthesis,4,0.034732008,0.181818182
+Fatty acid degradation,6,0.041815874,0.127659574
+Lysine biosynthesis,3,0.053401022,0.2
+Biosynthesis of secondary metabolites,69,0.056078891,0.062330623
+Biotin metabolism,3,0.061210093,0.1875
+Protein export,6,0.06899349,0.111111111
+Endocytosis,12,0.075873191,0.083333333
+Histidine metabolism,3,0.07830095,0.166666667
+Butanoate metabolism,3,0.087541309,0.157894737
+Zeatin biosynthesis,4,0.094173754,0.125
+2-Oxocarboxylic acid metabolism,7,0.096425589,0.094594595
+One carbon pool by folate,3,0.097215189,0.15
+Thiamine metabolism,3,0.107299074,0.142857143
+Lysine degradation,4,0.109620774,0.117647059
+"Valine, leucine and isoleucine biosynthesis",3,0.117768777,0.136363636
+Sesquiterpenoid and triterpenoid biosynthesis,3,0.12859966,0.130434783
+Porphyrin and chlorophyll metabolism,5,0.147803313,0.094339623
+Carbon fixation in photosynthetic organisms,6,0.154116724,0.086956522
+MAPK signaling pathway - plant,10,0.159633984,0.074626866
+"Glycine, serine and threonine metabolism",6,0.160972444,0.085714286
+Tyrosine metabolism,4,0.161922249,0.1
+Monobactam biosynthesis,2,0.179398282,0.142857143
+Pantothenate and CoA biosynthesis,3,0.187299616,0.107142857
+Carotenoid biosynthesis,3,0.199775921,0.103448276
+Terpenoid backbone biosynthesis,5,0.204890663,0.083333333
+"Valine, leucine and isoleucine degradation",4,0.274510002,0.078431373
+Pyruvate metabolism,6,0.285150663,0.069767442
+Cysteine and methionine metabolism,8,0.285616445,0.066115702
+Cyanoamino acid metabolism,5,0.286665062,0.072463768
+Carbon metabolism,16,0.323922418,0.058608059
+Galactose metabolism,4,0.340571577,0.070175439
+Pentose phosphate pathway,4,0.351675817,0.068965517
+Brassinosteroid biosynthesis,1,0.359648426,0.125
+Pentose and glucuronate interconversions,6,0.371034667,0.0625
+Glyoxylate and dicarboxylate metabolism,5,0.373135233,0.064102564
+Tryptophan metabolism,4,0.373878894,0.066666667
+Glycolysis / Gluconeogenesis,7,0.384194009,0.060344828
+Base excision repair,3,0.384776898,0.069767442
+Fatty acid biosynthesis,3,0.384776898,0.069767442
+Nitrogen metabolism,3,0.384776898,0.069767442
+Purine metabolism,6,0.405835495,0.06
+beta-Alanine metabolism,3,0.475264487,0.06
+Ascorbate and aldarate metabolism,3,0.512157695,0.056603774
+Arginine and proline metabolism,3,0.524146665,0.055555556
+mRNA surveillance pathway,6,0.532975467,0.052173913
+Fatty acid elongation,2,0.539432461,0.057142857
+Phosphatidylinositol signaling system,4,0.544276536,0.052631579
+Vitamin B6 metabolism,1,0.54729098,0.066666667
+Nicotinate and nicotinamide metabolism,1,0.569173519,0.0625
+Ubiquinone and other terpenoid-quinone biosynthesis,2,0.582046607,0.052631579
+Glycerolipid metabolism,3,0.592471744,0.05
+Starch and sucrose metabolism,8,0.600775419,0.048484848
+Phagosome,4,0.601858361,0.048780488
+Other glycan degradation,1,0.628680067,0.052631579
+Plant-pathogen interaction,8,0.632801266,0.047058824
+RNA transport,8,0.639033344,0.046783626
+AGE-RAGE signaling pathway in diabetic complications,1,0.646630601,0.05
+alpha-Linolenic acid metabolism,2,0.65834393,0.045454545
+SNARE interactions in vesicular transport,2,0.65834393,0.045454545
+Flavonoid biosynthesis,1,0.679971718,0.045454545
+Fatty acid metabolism,3,0.682299315,0.043478261
+Glucosinolate biosynthesis,1,0.695444037,0.043478261
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,1,0.724181955,0.04
+Phenylpropanoid biosynthesis,7,0.735556809,0.042168675
+ABC transporters,1,0.737518018,0.038461538
+Folate biosynthesis,1,0.737518018,0.038461538
+Inositol phosphate metabolism,3,0.756501826,0.038461538
+Pyrimidine metabolism,2,0.785146936,0.035087719
+Biosynthesis of amino acids,10,0.814479277,0.039840637
+Aminoacyl-tRNA biosynthesis,4,0.832284401,0.034782609
+Protein processing in endoplasmic reticulum,8,0.835063419,0.037914692
+Ribosome biogenesis in eukaryotes,3,0.883913066,0.02970297
+Propanoate metabolism,1,0.886992532,0.023255814
+Amino sugar and nucleotide sugar metabolism,4,0.895988032,0.030534351
+Peroxisome,2,0.932985642,0.022988506
+Glycerophospholipid metabolism,2,0.955449511,0.020618557
+Citrate cycle (TCA cycle),1,0.958092671,0.015873016
+Fructose and mannose metabolism,1,0.960121174,0.015625
+Ubiquitin mediated proteolysis,3,0.974357256,0.020979021
+Plant hormone signal transduction,7,0.983416461,0.025641026
