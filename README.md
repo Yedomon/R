@@ -1,4 +1,25 @@
 
+
+Today 28 July 2022
+
+
+
+I perform a buble plot based on KOBAS-i result
+
+
+the script and data are [here]()
+
+
+![img]()
+
+
+
+
+
+
+
+
+
 Today 5 July 2022
 
 
