@@ -1,4 +1,26 @@
 
+CV in R
+
+
+![img](https://pbs.twimg.com/media/FaYoM5IXoAAr20p?format=jpg&name=large)
+
+
+
+
+https://www.anabellelaurent.com/slides/rladies_pagedown/cvwithpagedown#1
+
+
+https://fontawesome.com/v4/icon/globe
+
+https://fontawesome.com/search?q=award&o=r
+
+
+
+https://bookdown.org/yihui/rmarkdown/document-templates.html?version=2022.07.0%2B548&mode=desktop
+
+
+
+
 
 Today 28 July 2022
 
