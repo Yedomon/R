@@ -1,4 +1,23 @@
 
+
+get some colors hints usefull for paper and inkscape
+
+
+https://github.com/karthik/wesanderson   #install it and plot and grab the color code
+
+
+
+First Steps in Learning the Use of Git & GitHub in RStudio https://youtu.be/jN6tvgt3GK8 via 
+@YouTube #rstats #rstudio
+
+https://twitter.com/rmarkdown/status/1581000522546307072
+
+
+
+
+
+
+
 CV in R
 
 
