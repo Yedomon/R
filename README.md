@@ -1,5 +1,20 @@
 
 
+
+New palette color  | [Tweet](https://twitter.com/Emil_Hvitfeldt/status/1582795210949423104) | [Github](https://github.com/EmilHvitfeldt/paletteer)
+
+
+![img](https://pbs.twimg.com/media/FfcuPCKVQAIJHRz?format=jpg&name=large)
+
+
+
+
+
+
+
+
+
+
 get some colors hints usefull for paper and inkscape
 
 
