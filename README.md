@@ -1,5 +1,11 @@
 
 
+e-chart for R | [github](https://github.com/ketchbrookanalytics/echarts4r-intro) | [youtube](https://youtu.be/TN10L3QrBXQ)
+
+
+
+
+
 
 New palette color  | [Tweet](https://twitter.com/Emil_Hvitfeldt/status/1582795210949423104) | [Github](https://github.com/EmilHvitfeldt/paletteer)
 
