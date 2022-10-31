@@ -1,5 +1,19 @@
 
 
+
+
+[smplot: An R Package for Easy and Elegant Data Visualization](https://www.frontiersin.org/articles/10.3389/fgene.2021.802894/full)
+
+[Use ggbreak to Effectively Utilize Plotting Space to Deal With Large Datasets and Outliers](https://www.frontiersin.org/articles/10.3389/fgene.2021.774846/full)
+
+
+
+
+
+
+
+
+
 e-chart for R | [github](https://github.com/ketchbrookanalytics/echarts4r-intro) | [youtube](https://youtu.be/TN10L3QrBXQ)
 
 
