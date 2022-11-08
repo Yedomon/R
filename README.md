@@ -2,6 +2,12 @@
 
 
 
+
+
+[Creating your personal website using Quarto](https://ucsb-meds.github.io/creating-quarto-websites/)
+
+
+
 Wikipedia data, but make it 𝘴𝘦𝘹𝘺
 
 Tables are underestimated. With R packages like {gt} and {reactable}, you can do A LOT.
