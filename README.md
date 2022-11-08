@@ -2,6 +2,39 @@
 
 
 
+Wikipedia data, but make it 𝘴𝘦𝘹𝘺
+
+Tables are underestimated. With R packages like {gt} and {reactable}, you can do A LOT.
+
+My latest table - Grand Slam Tennis Legends 🎾
+
+GitHub Code: https://bit.ly/3fIN4zv
+
+![img](https://pbs.twimg.com/media/Fg9_c7LXwAI4sGz?format=jpg&name=large)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [smplot: An R Package for Easy and Elegant Data Visualization](https://www.frontiersin.org/articles/10.3389/fgene.2021.802894/full)
 
 [Use ggbreak to Effectively Utilize Plotting Space to Deal With Large Datasets and Outliers](https://www.frontiersin.org/articles/10.3389/fgene.2021.774846/full)
