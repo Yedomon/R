@@ -1,4 +1,14 @@
 
+https://www.dataviz-inspiration.com/ for somme inspiration 
+
+
+
+
+line graph with highligthed specific line ----> https://r-graph-gallery.com/web-line-chart-small-multiple-all-group-greyed-out.html
+
+
+![img](https://pbs.twimg.com/media/FqEbr9NXwB4yAXE?format=png&name=900x900)
+
 
 
 
