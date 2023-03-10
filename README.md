@@ -1,6 +1,24 @@
 10.03.2023
 
 
+
+
+
+https://twitter.com/tanya_shapiro/status/1634214864435462146
+
+
+
+Liked the look of this lollipop chart by The Economist. I wanted to see if I could recreate it with ggplot.
+
+Right: Plot by The Economist
+Left: Recreation in ggplot
+
+Code: https://bit.ly/3ZAsWRK or https://github.com/tashapiro/tanya-data-viz/blob/main/recreate-economist-lollipop/recreate-economist-plot.R
+
+
+![img](https://twitter.com/tanya_shapiro/status/1634214864435462146/photo/2)
+
+
 webR 0.1.0 has been released
 
 
