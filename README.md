@@ -1,3 +1,18 @@
+10.03.2023
+
+
+webR 0.1.0 has been released
+
+
+https://docs.r-wasm.org/webr/latest/
+
+https://www.tidyverse.org/blog/2023/03/webr-0-1-0/
+
+
+
+
+
+
 
 https://www.dataviz-inspiration.com/ for somme inspiration 
 
