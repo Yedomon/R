@@ -1,3 +1,19 @@
+14.10.2023
+
+
+Here we go for this week #TidyTuesday about human and veterinary medecines.
+I visualized the companies holding the most authorizations in Europe.
+
+HD graphic and #RStats code: http://bit.ly/3TmUKa8
+Data from European Medicines Agency.
+
+
+![img](https://pbs.twimg.com/media/FrMasMsXsAYuX4I?format=png&name=4096x4096)
+
+
+
+
+
 10.03.2023
 
 
