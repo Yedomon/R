@@ -1,7 +1,7 @@
 
 How To Make A Personal Website with Hugo  --    https://matteocourthoud.github.io/post/website/
 
-
+Configure git with Rstudio --- https://gist.github.com/Z3tt/3dab3535007acf108391649766409421
 
 
 
