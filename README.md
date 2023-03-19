@@ -1,3 +1,5 @@
+Deploy in github.io or netflix  https://www.freecodecamp.org/news/publish-your-website-netlify-github/
+
 
 How To Make A Personal Website with Hugo  --    https://matteocourthoud.github.io/post/website/
 
