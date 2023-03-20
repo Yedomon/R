@@ -1,3 +1,35 @@
+
+
+or create a new repository on the command line
+
+```
+echo "# house_design" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Yedomon/house_design.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/Yedomon/house_design.git
+git branch -M main
+git push -u origin main
+
+```
+
+…or push an existing repository from the command line
+
+```
+
+git remote add origin https://github.com/Yedomon/house_design.git
+git branch -M main
+git push -u origin main
+
+```
+
+
+
+
 Deploy in github.io or netflix  https://www.freecodecamp.org/news/publish-your-website-netlify-github/
 
 
