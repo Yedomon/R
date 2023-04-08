@@ -1,0 +1,291 @@
+---
+title: "Yedomon's resume"
+author: Yedomon
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Yedomon](C:/Users/ange_/Downloads/resume/profile-pic.png){width=90%}
+
+Birth date: **January 27, 1990**  Native country: **Benin**
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> angez9914@gmail.com
+- <i class="fa fa-github"></i> [github.com/Yedomon](https://github.com/Yedomon)
+- <i class="fa fa-twitter"></i> [twitter.com/AngeOmics](https://twitter.com/AngeOmics)
+- <i class="fa fa-globe"></i> [https://yedomon-site.netlify.app/](https://yedomon-site.netlify.app/)
+
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+- **Coding**
+
+- R • Python • Bash • Shiny • Snakemake  • Nextflow
+
+- **Wet Lab**
+
+- Plant and fungi DNA and RNA extraction • Sequencing library preparation • PCR • RT-PCR
+
+- **Dry Lab**
+
+- Genome assembly • Genome annotation • Comparative genomics • Pan-genome analysis • Population genomics • QTL • GWAS
+
+- **Languages**
+
+- French : Native • English: Fluent • Korean: Intermediate
+
+
+
+Main
+================================================================================
+
+Yedomon Ange Bovys Zoclanclounon {#title}
+--------------------------------------------------------------------------------
+
+### Bioinformatician | Plant Genetics and Genomics
+
+As a newly graduated Doctor of Philosophy in Plant Genetics and Genomics, my fervor lies in the exploration of plant, fungi, fish, and mammalian genomes to uncover their evolutionary significance and advantageous genetic traits. My goal is to contribute towards promoting biodiversity preservation as well as enhancing advancements in molecular plant breeding.
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Jeonbuk National University
+
+Ph.D. in Crop Science and Biotechnology
+
+Jeonju, South Korea
+
+2020 - 2023
+
+Thesis: Genomic and phenotypic characterization of sesame germplasm
+for phylogenomics and breeding
+
+### University Cheikh Anta Diop
+
+M.S. in Plant Pathology and Crop Protection
+
+Dakar, Senegal
+
+2014 - 2016
+
+Thesis: Characterization of downy mildew [*Sclerospora graminicola* (Sacc.) J. Schröeter] incidence and severity on 20 pearl millet [*Pennisetum glaucum* (L.) R. Br.] varieties and assessment of agronomic performance
+
+### University of Abomey-Calavi
+
+B.Sc. Agricultural Pest Management
+
+Abomey-Calavi, Benin
+
+2007 - 2012
+
+Thesis: Toxicity of two plant powders as biopesticides in the management
+of *Callosobruchus maculatus* F. (Coleoptera: Chrysomelidae, Bruchinae)
+on two stored grain legumes
+
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Graduate Research Assistant
+
+Genomics Division, Department of Agricultural Biotechnology, National Institute of
+Agricultural Sciences
+
+Jeonju, South-korea
+
+2018 - 2020
+
+- Genome assembly annotation, and comparative analyses using *Sesamum* and *Fusarium* species.
+- Identification of peroxidase and laccase enzymes related to the biosynthesis of lignans from sesame seed.
+- Construction of a sesame core collection and identification of accessions with high oil, and lignans content
+
+### Graduate Research Assistant
+
+Centre d’Etudes Régional pour l’Amélioration de l’Adaptation à la Sècheresse (CERAAS)
+
+Thies, Senegal
+
+2014 - 2015
+
+- Evaluation and mapping pearl millet disease incidence within Senegal agro-ecological areas.
+- Identification of resistant genotypes as parental lines for millet breeding.
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Introduction to R Language for GIS application - Raster data session
+
+Instructor of R and GIS data mining for the DAAD climapAfrica - Working group Climate change Animal and Plant Physiology and Stress. | [Press release](https://www.daad.de/en/the-daad/what-we-do/sustainable-development/funding-programmes/climapafrica/wg/5/news-apps/) | [Training material](https://yedomon-site.netlify.app/projects/r_gis_raster/#1)
+
+Remote
+
+2021
+
+### Introduction to R Language for GIS application - Shapefile data session
+
+Instructor of R and GIS data mining for the DAAD climapAfrica - Working group Climate change Animal and Plant Physiology and Stress. | [Press release](https://www.daad.de/en/the-daad/what-we-do/sustainable-development/funding-programmes/climapafrica/wg/5/news-apps/) | [Training material](https://github.com/Yedomon/R-for-geographic-map-Session-1)
+
+Remote
+
+2020
+
+Honors and Awards {data-icon=award}
+--------------------------------------------------------------------------------
+
+### In Country and in Region Scholarship for Master Science graduate Award
+
+German Academic Exchange Service, Deutscher Akademischer Austausch Dienst (DAAD)
+
+
+N/A
+
+2014
+
+Society Membership {data-icon=handshake}
+--------------------------------------------------------------------------------
+
+### International Society for Computational Biology: ISCB
+
+Member
+
+N/A
+
+2020 - Present
+
+Volunteering {data-icon=hand-pointer}
+--------------------------------------------------------------------------------
+
+### African Biogenome Project (AfricaBP) - Pilot Committee
+
+Co-Chair of the Genome Annotation Sub-committee | [Link](https://africanbiogenome.org/pilot-project/annotation/)
+
+N/A
+
+2021 - Present
+
+### African Biogenome Project (AfricaBP) - Pilot Committee
+
+Co-organizer of the AfricaBP Workshop on Biodiversity
+Genomics Technologies and Infrastructures | [Link](https://youtu.be/IHry9jNxigI?t=302)
+
+N/A
+
+2022
+
+Selected Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+
+### Genomic and phenotypic characterization of sesame germplasm for phylogenomics and breeding 
+
+*PhD Thesis Document* | [Download](https://github.com/Yedomon/pangenome/raw/main/Thesis_PhD_document.pdf)
+
+N/A
+
+2023 
+
+**Zoclanclounon YAB**
+
+
+
+### Genome-wide development of intra- and inter-specific transferable SSR markers and construction of a dynamic web resource for yam molecular breeding: Y2MD
+
+*Preprint bioRxiv* | doi:  https://doi.org/10.1101/2023.03.09.531889
+
+N/A
+
+2023 
+
+Moussa D, **Zoclanclounon YAB**, Mboup PA, Diouf D, Malédon E, Rivallan R, Chair H and Dossa K  
+
+
+
+### Haplotype-resolved telomere-to-telomere assembly of the African catfish (*Clarias gariepinus*) provides insights for terrestrial adaptation of air-breathing catfishes 
+
+*Preprint bioRxiv* | doi:  https://doi.org/10.1101/2023.03.23.533919
+
+N/A
+
+2023
+
+Nguinkal JA, **Zoclanclounon YAB**, Brunner RM and Goldammer T
+
+
+
+
+
+### Characterization of peroxidase and laccase gene families and *in silico* identification of potential genes involved in upstream steps of lignan formation in sesame
+
+*MDPI Life* | doi:  https://doi.org/10.3390/life12081200
+
+N/A
+
+2022 
+
+**Zoclanclounon YAB**, Rostás M, Chung N-J, Mo Y, Karlovsky P and Dossa K 
+
+### A chromosome-level genome of the Korean cultivar *Sesamum indicum* var. Goenbaek 
+
+*Data Set* | NCBI Project: [PRJNA810203](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA810203) | doi: https://doi.org/10.5281/zenodo.6350880
+
+N/A
+
+2022 
+
+**Zoclanclounon YAB**, Kim J-G, and Lee K
+
+### A genome assembly of the sesame wilt disease pathogen *Fusarium oxysporum f.sp. sesami* 
+
+*Data Set* | NCBI Project: [PRJNA667197](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA667197/) 
+
+N/A
+
+2021 
+
+**Zoclanclounon YAB**, Jung H-J, Kim S-U, Yoon Y, Choi H-W, Kim TH and Lee K
+
+Referees
+--------------------------------------------------------------------------------
+
+### Youngjun Mo, Ph.D.
+
+Assistant Professor at Department of Crop Science and Biotechnology, Jeonbuk National University, Korea | **yjmo@jbnu.edu**
+
+N/A
+
+N/A
+
+
+
+### Ghislain Kanfany, Ph.D.
+
+Assistant Professor at Gaston Berger University, UFR S2ATA, Saint-Louis, Senegal | **ghislain.kanfany@ugb.edu.sn**
+
+N/A
+
+N/A
+
+
+
+### Komivi Dossa, Ph.D.
+
+Researcher at CIRAD, UMR AGAP Institut, Guadeloupe, France. | **komivi.dossa@cirad.fr**
+
+N/A
+
+N/A
+
