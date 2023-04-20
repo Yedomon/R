@@ -2,6 +2,7 @@
 Thematic Maps with R   https://rcarto.github.io/RUG_HDSI/#/title-slide
 
 
+SDS 375 Schedule Spring 2023 https://wilkelab.org/SDS375/schedule.html  https://twitter.com/RosanaFerrero
 
 
 create and share beautiful images of your source code with carbon at:  https://carbon.now.sh/
