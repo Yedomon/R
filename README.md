@@ -1,4 +1,14 @@
 
+
+repo r awesome-ggplot2  https://github.com/erikgahner/awesome-ggplot2
+
+
+
+
+
+
+
+
 Thematic Maps with R   https://rcarto.github.io/RUG_HDSI/#/title-slide
 
 
