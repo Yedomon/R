@@ -1,6 +1,17 @@
 
 
 
+https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad437/7224245?login=false
+
+new pallette color 
+
+https://jakubnowosad.com/rcartocolor/
+
+
+https://r-graph-gallery.com/38-rcolorbrewers-palettes.html
+
+
+
 Yan Holtz Talk -----> `https://github.com/holtzy/Talk`
 
 
