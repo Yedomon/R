@@ -1,6 +1,27 @@
 
 
 
+  to  Everyone
+To follow Dr. Cédric Scherer: 
+webpage: https://cedricscherer.com
+link tree: https://linktr.ee/cedscherer
+Slides
+https://z3tt.github.io/exciting-extensions/slides.html
+https://www.linkedin.com/in/cedscherer/
+
+https://www.cedricscherer.com/
+
+
+Additional Course Resources
+Script: https://github.com/z3tt/exciting-extensions/blob/main/script.R
+Asap typeface: https://fonts.google.com/specimen/Asap
+
+About Me
+my webpage: https://cedricscherer.com
+My link tree: https://linktr.ee/cedscherer
+
+
+
 https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad437/7224245?login=false
 
 new pallette color 
