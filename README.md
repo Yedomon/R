@@ -3,22 +3,23 @@
 
   to  Everyone
 To follow Dr. Cédric Scherer: 
-webpage: https://cedricscherer.com
-link tree: https://linktr.ee/cedscherer
+- webpage: https://cedricscherer.com
+- link tree: https://linktr.ee/cedscherer
 Slides
-https://z3tt.github.io/exciting-extensions/slides.html
-https://www.linkedin.com/in/cedscherer/
+- https://z3tt.github.io/exciting-extensions/slides.html
 
-https://www.cedricscherer.com/
+- https://www.linkedin.com/in/cedscherer/
+
+- https://www.cedricscherer.com/
 
 
 Additional Course Resources
-Script: https://github.com/z3tt/exciting-extensions/blob/main/script.R
-Asap typeface: https://fonts.google.com/specimen/Asap
+- Script: https://github.com/z3tt/exciting-extensions/blob/main/script.R
+- Asap typeface: https://fonts.google.com/specimen/Asap
 
 About Me
-my webpage: https://cedricscherer.com
-My link tree: https://linktr.ee/cedscherer
+- my webpage: https://cedricscherer.com
+- My link tree: https://linktr.ee/cedscherer
 
 
 
