@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="mocha.svg"
+   id="svg837"
+   version="1.1"
+   viewBox="0 0 24 24"
+   role="img">
+  <metadata
+     id="metadata843">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs841">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient2797">
+      <stop
+         id="stop2795"
+         offset="0"
+         style="stop-color:#0d0d0d;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2835"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#f2cb05;stop-opacity:1;"
+         offset="0"
+         id="stop2833" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     inkscape:current-layer="svg837"
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:cy="10.752809"
+     inkscape:cx="12"
+     inkscape:zoom="29.666667"
+     showgrid="false"
+     id="namedview839"
+     inkscape:window-height="957"
+     inkscape:window-width="1408"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
+  <title
+     id="title833">Mocha icon</title>
+  <path
+     sodipodi:nodetypes="cccccccccccccsscccccssscscccsccccsscc"
+     style="opacity:1;mix-blend-mode:normal;fill:#0d0d0d;fill-opacity:1;fill-rule:evenodd;stroke:#d9d7d7;stroke-width:0.566929;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path835"
+     d="m 13.830617,0.37078656 c -0.974415,1.48678654 -1.430764,0.75143814 0.243236,3.26343814 0.558,0.9650787 0.602042,1.3799663 0.02643,2.6079551 0,0 1.365933,-0.6887192 -0.169067,-3.3407192 C 13.057921,1.4727528 13.818696,0.99361802 13.830617,0.37078656 Z M 11.47882,1.6044719 c -0.627999,0.767 -0.762303,1.1642135 0.353697,2.9082135 0.349999,0.349 -0.218866,1.8290337 -0.218866,2.1080337 0,0 1.470753,-0.8094607 0.424753,-2.6234607 -0.628,-0.907 -0.703752,-1.5407528 -0.559584,-2.3927865 z M 6.5196517,7.8067191 c -0.3848758,0.0011 -0.696451,0.313123 -0.697,0.698 0,2.3719999 0.349,10.5349999 3.837,14.5119999 0.14,0.139 0.28,0.208 0.4890003,0.208 h 5.859999 c 0.21,0 0.35,-0.069 0.489,-0.208 3.488,-3.908 3.837,-12.07 3.837,-14.5119999 -5.49e-4,-0.3854293 -0.312572,-0.6978992 -0.698,-0.699 h -6.558 z m 2.023,2.1630002 h 9.2099993 c 0.349,0 0.697,0.2779997 0.697,0.6969997 0,1.953 -0.348,7.465 -2.72,10.326 -0.21,0.14 -0.35,0.208 -0.559,0.208 h -4.115999 c -0.185274,0.0055 -0.363632,-0.07056 -0.488,-0.208 -2.3720003,-2.79 -2.6520003,-8.373 -2.7220003,-10.326 0,-0.35 0.28,-0.6969997 0.698,-0.6969997 z m 8.9605393,2.7215277 c 0,0 -0.812574,0.458461 -2.486574,1.086461 -2.303,0.837 -6.0109204,0.819326 -6.0109204,0.819326 0.349,1.465 1.1419554,4.511685 1.9789554,5.558685 0.07,0.14 0.28,0.209 0.419,0.209 h 3.488999 c 0.14,0 0.279,-0.07 0.418,-0.209 1.186,-1.395 1.91354,-5.580472 2.19254,-7.464472 z" />
+</svg>
