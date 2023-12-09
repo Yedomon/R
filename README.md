@@ -1,9 +1,12 @@
 
 
+https://rpubs.com/Nishapaudel/DESeq2_sex_wise_dfs
 
-
+https://sbc.shef.ac.uk/workshops/2020-02-13-rnaseq-r/rna-seq-de.nb.html
 
 https://mkempenaar.github.io/gene_expression_analysis/chapter-3.html#loading-data
+
+https://github.com/frankRuehle/systemsbio
 
 
 
