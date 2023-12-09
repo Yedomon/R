@@ -1,6 +1,13 @@
 
 
 
+
+
+https://mkempenaar.github.io/gene_expression_analysis/chapter-3.html#loading-data
+
+
+
+
   to  Everyone
 To follow Dr. Cédric Scherer: 
 - webpage: https://cedricscherer.com
