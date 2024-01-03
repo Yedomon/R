@@ -1,5 +1,14 @@
 #!/bin/bash
 
+## Ange Zoclanclounon, PhD
+## Bioinformatics Scientist @Rothamsted Research
+## X : @angeomics
+
+
+## Quick run: ./fastp.sh /path/to/your/rnaseq/data
+
+
+
 ## RNA-Seq QC analysis with FasQC, fastp, and multiQC tools
 ### Installation 
 ### Create an environment and install FasQC, fastp, and multiQC tools
