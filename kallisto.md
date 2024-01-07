@@ -7,11 +7,13 @@
 ## Usage: ./run_kallisto.sh transcript_file.fasta trimmed_reads_path outputdirectory
 
 
-## Before using this script we create a conda environment and activate it
+## Before using this script we create a conda environment, activate it and install kallisto
 
 # conda create --name kallisto_env
 # conda activate kallisto_env
 # conda install -c bioconda kallisto
+
+# Note make sure you activate the kallisto environment (kallisto_env) before running the script
 
 
 
