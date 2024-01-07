@@ -30,7 +30,7 @@ do
     fq_trim1="$trimmed_reads_path/${base}_1.fastq.gz"
     fq_trim2="$trimmed_reads_path/${base}_2.fastq.gz"
     echo "Quantification with kallisto"
-    kallisto quant --index=$(basename "$transcript_file" .fasta)_index --output-dir="$outputdirectory/$base" --threads=4 --plaintext "$fq_trim1" "$fq_trim2"
+    kallisto quant --index=$(basename "$transcript_file" .fasta)_index --output-dir="$outputdirectory" --threads=4 --plaintext "$fq_trim1" "$fq_trim2"
 done
 
 ## Create a single TSV file that has the TPM abundance estimates for all samples.
