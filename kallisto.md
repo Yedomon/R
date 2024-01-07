@@ -6,6 +6,15 @@
 
 ## Usage: ./run_kallisto.sh transcript_file.fasta trimmed_reads_path outputdirectory
 
+
+## Before using this script we create a conda environment and activate it
+
+# conda create --name kallisto_env
+# conda activate kallisto_env
+# conda install -c bioconda kallisto
+
+
+
 if [ "$#" -ne 3 ]; then
     echo "Usage: $0 transcript_file.fasta trimmed_reads_path outputdirectory"
     exit 1
